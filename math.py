@@ -17,5 +17,6 @@ def divide(x,y):
   else
     return x/y
 
+#Added square header
 def square(c)
   pass
