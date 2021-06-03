@@ -19,4 +19,4 @@ def divide(x,y):
 
 #Added square header
 def square(c)
-  pass
+  return c*c
