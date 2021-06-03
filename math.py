@@ -19,7 +19,3 @@ def divide(x,y):
     return error
   else
     return x/y
-
-#Added square header
-def square(c)
-  return c*c
