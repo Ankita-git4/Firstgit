@@ -8,9 +8,10 @@
 </head>
 <body>
 We have successfully added the Movie in the database.
-The details are:${movies.name}<br>
-${movies.language}
-${movies.star_cast}
-${movies.year}
+The details are:<br>
+Movie Name: ${movies.name}<br>
+Movie Language : ${movies.language}<br>
+Movie Star Cast: S${movies.star_cast}<br>
+Movie Year: ${movies.year}
 </body>
 </html>
